@@ -81,8 +81,8 @@ Permet de générer un mot de passe aléatoire selon 3 critères (lettres, chiff
 
 ## 🔗 Dépôt GitHub
 
-> 📂 https://github.com/TON-DEPOT/archeo-it  
-(Remplacer par ton vrai lien GitHub)
+> 📂 https://github.com/farrel05/archeo-it  
+
 
 ---
 
